@@ -1,2 +1,11 @@
 body{background-color: whitesmoke; display: flex; flex-direction: column;}
 a{text-decoration: none; font-size: large; font-weight: 500; color: navy; padding: 1rem;}
+title{color: violet;}
+
+.heading-special{color: indigo;
+}
+
+.text-desc{color: orange;}
+
+.palindrome-heading{color: green;}
+
